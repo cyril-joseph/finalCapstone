@@ -1,6 +1,18 @@
-# finalCapstone
+1. [ Description. ](#desc)
+2. [ Conversion. ](#convert)
+3. [ Installation. ](#install)
+3. [ Usage. ](#using)
+
+<a name="desc"></a>
+## 1. Description
+
 finalCapstone
 This temperature js file is used to convert the temperature metric to the following as user prefers C - Celsius F - Fahrenheit K - Kelvin
+
+
+<a name="usage"></a>
+## 2. Conversion
+
 Conversion formulae:
 ● Celsius from:
 ○ Fahrenheit: C = (F -32) x 5/9
@@ -11,9 +23,10 @@ Conversion formulae:
 ● Kelvin from:
 ○ Celsius: K = C + 273.15
 ○ Fahrenheit: K = (F + 459.67) x 5/9
-# Table of Contents
-1. [My first title](#my-first-title)
-2. [My second title](#my-second-title)
-## My first title
-Some text.
-## My second title
+
+<a name="install"></a>
+## 3. Installation
+
+
+Go to Google chrome. right click-> inspect-> console.
+copy,paste the code.
