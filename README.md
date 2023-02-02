@@ -30,3 +30,4 @@ Conversion formulae:
 
 Go to Google chrome. right click-> inspect-> console.
 copy,paste the code.
+![image](https://user-images.githubusercontent.com/124166268/216433735-13f0cf58-5f8d-45ea-b713-3f0903c71577.png)
