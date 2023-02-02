@@ -1,7 +1,7 @@
 1. [ Description. ](#desc)
 2. [ Conversion. ](#convert)
 3. [ Installation. ](#install)
-3. [ Usage. ](#using)
+4. [ Usage. ](#using)
 
 <a name="desc"></a>
 ## 1. Description
@@ -48,6 +48,7 @@ choose any of the following:
 Enter C for celsius
 Enter K for kelvin
 Enter F for Fahrenheit
+Screenshots of the project in action
 ![image](https://user-images.githubusercontent.com/124166268/216434260-9a6b9860-97ee-4203-a600-1fd79fa987e4.png)
 ![image](https://user-images.githubusercontent.com/124166268/216434339-ea9c8c71-4ff9-49bf-8999-5b7d04549392.png)
 ![image](https://user-images.githubusercontent.com/124166268/216434428-65cf74c8-aacf-4e7a-8895-b98e289bcd39.png)
