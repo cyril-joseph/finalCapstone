@@ -30,4 +30,21 @@ Conversion formulae:
 
 Go to Google chrome. right click-> inspect-> console.
 copy,paste the code.
-![image](https://user-images.githubusercontent.com/124166268/216433735-13f0cf58-5f8d-45ea-b713-3f0903c71577.png)
+
+<a name="using"></a>
+## 4. Usage
+
+
+In which metric would you like to convert:
+choose any of the following:
+Enter C for celsius
+Enter K for kelvin
+Enter F for Fahrenheit
+
+Enter the value of what you chose
+
+To which metric would you like to convert the given temperature:
+choose any of the following:
+Enter C for celsius
+Enter K for kelvin
+Enter F for Fahrenheit
